@@ -11,5 +11,9 @@ Kotlin is statically typed, and has type inference, meaning the compiler can inf
 A helpful link, if you'd like to read the documentation and learn by example:
 https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world
 
+My notes start from the second week of the course. Nothing to worry about, you haven't missed anything big. The first week
+is just on some introductory material which could be gone over more in depth on: https://kotlinlang.org/
 
-I will be posting my personal notes from the class for other enthusiastic coders. Happy coding!
+I will be posting my personal notes from the second week and on for other enthusiastic coders.
+Happy coding!
+- Amir Mirgeloybayat
