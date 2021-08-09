@@ -1,5 +1,5 @@
 # Kotlin-for-Java-Developers
-Kotlin for Java Developers is a course designed by JetBrains for developers who are already familiar with Java.
+"Kotlin for Java Developers" is a course on Coursera website designed by JetBrains for developers who are already familiar with Java.
 Kotlin is a robust and fairly new language and is currently being used in multi-platform and mobile projects,
 server-side and web frontend, and of course, Android.
 You can use Kotlin and Java interchangeably. 
